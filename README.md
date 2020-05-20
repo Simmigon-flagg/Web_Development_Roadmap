@@ -359,6 +359,8 @@ What things you need to install the software and how to install them
 ```
 Give examples
 ```
+### Media
+[Eloquent Javascript](https://eloquentjavascript.net/) - Online Interactive Book!
 
 ### Installing
 
