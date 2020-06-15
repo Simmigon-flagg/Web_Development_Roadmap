@@ -6,7 +6,6 @@ This is a live Document that will be updated regularly
 1. Cascading Style Sheets CSS
 1. JavaScript (First Coding Language) 
 1. Basic Deployment
-1. Side Technologies
 1. Frameworks 
 1. Backend Languages
 1. Application Programming Interface (API)
@@ -19,7 +18,7 @@ This is a live Document that will be updated regularly
 1. DevOps
 
 <details>
-<summary> Tools and Software </summary>
+<summary>1. Tools and Software </summary>
 <br>
 <pre>
 
@@ -128,7 +127,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 
 <details>
-<summary> HTML </summary>
+<summary>2. HTML </summary>
 <br>
 <pre>
 
@@ -234,7 +233,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 
 <details>
-<summary> CSS </summary>
+<summary>3. CSS </summary>
 <br>
 <pre>
 
@@ -350,7 +349,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 
 <details>
-<summary> JavaScript </summary>
+<summary>4. JavaScript </summary>
 <br>
 <pre>
 
@@ -469,7 +468,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 
 <details>
-<summary> Basic Deployment </summary>
+<summary>5. Basic Deployment </summary>
 <br>
 <pre>
 
@@ -568,116 +567,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 </pre>
 </details>
 
----
 
-
-
-
-
-<details>
-<summary> Side Technologies </summary>
-<br>
-<pre>
-
-# Side Technologies
-
-One Paragraph of project description goes here
-
-## Getting Started
-
-1. Git and Github
-1. Command Line Basic
-   1.GIT
-   1.LINUX/UNIX - BASH
-   1.Microsoft - Command Propt PowerShell
-
-1. API and RESTful
-1. SASS (CSS)
-1. Client Server Conversation 
-
-### Prerequisites
-
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
-
-### Installing
-
-A step by step series of examples that tell you have to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags).
-
-## Authors
-
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone who's code was used
-* Inspiration
-* etc
-
-
-</pre>
-</details>
 
 ---
 
@@ -685,7 +575,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 
 <details>
-<summary> Frameworks </summary>
+<summary>6. Frameworks </summary>
 <br>
 <pre>
 
@@ -798,7 +688,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 
 <details>
-<summary> Backend Languages </summary>
+<summary>7. Backend Languages </summary>
 <br>
 <pre>
 
@@ -904,7 +794,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 
 <details>
-<summary> Application Programming Interface (API) </summary>
+<summary>8. Application Programming Interface (API) </summary>
 <br>
 <pre>
 
@@ -1013,7 +903,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 
 <details>
-<summary> Front End Careers </summary>
+<summary>9. Front End Careers </summary>
 <br>
 <pre>
 
@@ -1124,7 +1014,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 
 <details>
-<summary> Back-End Careers</summary>
+<summary>10. Back-End Careers</summary>
 <br>
 <pre>
 
@@ -1144,6 +1034,546 @@ One Paragraph of project description goes here
 ### Prerequisites
 
 What things you need to install the software and how to install them
+
+```
+Give examples
+```
+
+### Installing
+
+A step by step series of examples that tell you have to get a development env running
+
+Say what the step will be
+
+```
+Give the example
+```
+
+And repeat
+
+```
+until finished
+```
+
+End with an example of getting some data out of the system or using it for a little demo
+
+## Running the tests
+
+Explain how to run the automated tests for this system
+
+### Break down into end to end tests
+
+Explain what these tests test and why
+
+```
+Give an example
+```
+
+### And coding style tests
+
+Explain what these tests test and why
+
+```
+Give an example
+```
+
+## Deployment
+
+Add additional notes about how to deploy this on a live system
+
+## Built With
+
+* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
+* [Maven](https://maven.apache.org/) - Dependency Management
+* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+
+## Contributing
+
+Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+
+## Versioning
+
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags).
+
+## Authors
+
+* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+
+See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+## Acknowledgments
+
+* Hat tip to anyone who's code was used
+* Inspiration
+* etc
+
+
+</pre>
+</details>
+
+---
+
+
+
+
+
+
+<details>
+<summary>11. Databases</summary>
+<br>
+<pre>
+
+# Back-End Careers
+
+One Paragraph of project description goes here
+
+## Job Titles
+
+1. Backend Developer / Engineer
+1. Fullstack Engineer / Developer
+1. Software Developer/Engineer/Architect
+1. Node.js/Python/Rudy/.NET(C#)/PHP/ Developer
+1. Platform Engineer/Architect
+1. DBA (Database Adminstration)
+
+### Prerequisites
+
+What things you need to install the software and how to install them
+
+```
+Give examples
+```
+
+### Installing
+
+A step by step series of examples that tell you have to get a development env running
+
+Say what the step will be
+
+```
+Give the example
+```
+
+And repeat
+
+```
+until finished
+```
+
+End with an example of getting some data out of the system or using it for a little demo
+
+## Running the tests
+
+Explain how to run the automated tests for this system
+
+### Break down into end to end tests
+
+Explain what these tests test and why
+
+```
+Give an example
+```
+
+### And coding style tests
+
+Explain what these tests test and why
+
+```
+Give an example
+```
+
+## Deployment
+
+Add additional notes about how to deploy this on a live system
+
+## Built With
+
+* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
+* [Maven](https://maven.apache.org/) - Dependency Management
+* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+
+## Contributing
+
+Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+
+## Versioning
+
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags).
+
+## Authors
+
+* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+
+See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+## Acknowledgments
+
+* Hat tip to anyone who's code was used
+* Inspiration
+* etc
+
+
+</pre>
+</details>
+
+---
+
+
+
+
+
+
+
+<details>
+<summary>12. Security Best Practices</summary>
+<br>
+<pre>
+
+# Back-End Careers
+
+One Paragraph of project description goes here
+
+## Job Titles
+
+1. Backend Developer / Engineer
+1. Fullstack Engineer / Developer
+1. Software Developer/Engineer/Architect
+1. Node.js/Python/Rudy/.NET(C#)/PHP/ Developer
+1. Platform Engineer/Architect
+1. DBA (Database Adminstration)
+
+### Prerequisites
+
+What things you need to install the software and how to install them
+
+```
+Give examples
+```
+
+### Installing
+
+A step by step series of examples that tell you have to get a development env running
+
+Say what the step will be
+
+```
+Give the example
+```
+
+And repeat
+
+```
+until finished
+```
+
+End with an example of getting some data out of the system or using it for a little demo
+
+## Running the tests
+
+Explain how to run the automated tests for this system
+
+### Break down into end to end tests
+
+Explain what these tests test and why
+
+```
+Give an example
+```
+
+### And coding style tests
+
+Explain what these tests test and why
+
+```
+Give an example
+```
+
+## Deployment
+
+Add additional notes about how to deploy this on a live system
+
+## Built With
+
+* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
+* [Maven](https://maven.apache.org/) - Dependency Management
+* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+
+## Contributing
+
+Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+
+## Versioning
+
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags).
+
+## Authors
+
+* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+
+See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+## Acknowledgments
+
+* Hat tip to anyone who's code was used
+* Inspiration
+* etc
+
+
+</pre>
+</details>
+
+---
+
+
+
+<details>
+<summary>13. Authentication/Authorizations</summary>
+<br>
+<pre>
+
+# Back-End Careers
+
+One Paragraph of project description goes here
+
+## Job Titles
+
+1. Backend Developer / Engineer
+1. Fullstack Engineer / Developer
+1. Software Developer/Engineer/Architect
+1. Node.js/Python/Rudy/.NET(C#)/PHP/ Developer
+1. Platform Engineer/Architect
+1. DBA (Database Adminstration)
+
+### Prerequisites
+
+What things you need to install the software and how to install them
+
+```
+Give examples
+```
+
+### Installing
+
+A step by step series of examples that tell you have to get a development env running
+
+Say what the step will be
+
+```
+Give the example
+```
+
+And repeat
+
+```
+until finished
+```
+
+End with an example of getting some data out of the system or using it for a little demo
+
+## Running the tests
+
+Explain how to run the automated tests for this system
+
+### Break down into end to end tests
+
+Explain what these tests test and why
+
+```
+Give an example
+```
+
+### And coding style tests
+
+Explain what these tests test and why
+
+```
+Give an example
+```
+
+## Deployment
+
+Add additional notes about how to deploy this on a live system
+
+## Built With
+
+* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
+* [Maven](https://maven.apache.org/) - Dependency Management
+* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+
+## Contributing
+
+Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+
+## Versioning
+
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags).
+
+## Authors
+
+* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+
+See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+## Acknowledgments
+
+* Hat tip to anyone who's code was used
+* Inspiration
+* etc
+
+
+</pre>
+</details>
+
+---
+
+
+
+
+<details>
+<summary>14. Containers</summary>
+<br>
+<pre>
+
+# Back-End Careers
+
+One Paragraph of project description goes here
+
+## Job Titles
+
+1. Backend Developer / Engineer
+1. Fullstack Engineer / Developer
+1. Software Developer/Engineer/Architect
+1. Node.js/Python/Rudy/.NET(C#)/PHP/ Developer
+1. Platform Engineer/Architect
+1. DBA (Database Adminstration)
+
+### Prerequisites
+
+What things you need to install the software and how to install them
+
+```
+Give examples
+```
+
+### Installing
+
+A step by step series of examples that tell you have to get a development env running
+
+Say what the step will be
+
+```
+Give the example
+```
+
+And repeat
+
+```
+until finished
+```
+
+End with an example of getting some data out of the system or using it for a little demo
+
+## Running the tests
+
+Explain how to run the automated tests for this system
+
+### Break down into end to end tests
+
+Explain what these tests test and why
+
+```
+Give an example
+```
+
+### And coding style tests
+
+Explain what these tests test and why
+
+```
+Give an example
+```
+
+## Deployment
+
+Add additional notes about how to deploy this on a live system
+
+## Built With
+
+* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
+* [Maven](https://maven.apache.org/) - Dependency Management
+* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+
+## Contributing
+
+Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+
+## Versioning
+
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags).
+
+## Authors
+
+* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+
+See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+## Acknowledgments
+
+* Hat tip to anyone who's code was used
+* Inspiration
+* etc
+
+
+</pre>
+</details>
+
+---
+
+
+
+
+<details>
+<summary>15. DevOps</summary>
+<br>
+<pre>
+
+# DevOps Careers
+
+One Paragraph of project description goes here
+
+## Job Titles
+
+1. Backend Developer / Engineer
+1. Fullstack Engineer / Developer
+1. Software Developer/Engineer/Architect
+1. Node.js/Python/Rudy/.NET(C#)/PHP/ Developer
+1. Platform Engineer/Architect
+1. DBA (Database Adminstration)
+
+### Prerequisites
+
+Continuous Integration = Merge Code Into Repo.
+Continuous Deployment = Release Code for Use.
 
 ```
 Give examples
