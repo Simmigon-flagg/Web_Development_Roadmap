@@ -2,9 +2,44 @@
 This is a live Document that will be updated regularly 
 
 1. Tools and Software 
+   1. Text Editor
+      1. Intergrated Developement Environment
+         1. Visual Studio Code (VSCode)
+         1. Atom 
+         1. Notepad++
+   1. Terminal
+      1. Bash
+      1. Zsh
+      1. Powershell (Windows)
+      1. Git Bash
+      1. iTerm
+   1. Browser Development Tools
+      1. Chrome
+      1. Firefox
+   1. Package Manager
+      1. Nodejs 
+         1. NPM
+         1. YARN
+      1. Python
+         1. PIP
+      1. PHP
+         1. Composer
+   1. Code Bundler
+         
 1. Hyper Text Mark-Up Language (HTML)
+   * HTML5
 1. Cascading Style Sheets CSS
-1. JavaScript (First Coding Language) 
+   * CSS Fundamental
+      * Place Holder
+   * CSS Grid 
+   * CSS Flexbox
+   * CSS Custom Properties
+1. Responsive Design (Mobile First Approach)
+   * Viewport
+   * Media Queries
+   * Fluid Widths
+1. JavaScript (First Coding Language)
+   *  
 1. Basic Deployment
 1. Frameworks 
 1. Backend Languages
@@ -24,7 +59,7 @@ This is a live Document that will be updated regularly
 
 # Tools and Software
 
-One Paragraph of project description goes here
+Here are the tools needed to get started with Front End or Back End 
 
 ## Getting Started
 
