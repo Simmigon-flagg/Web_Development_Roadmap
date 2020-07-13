@@ -4,7 +4,7 @@ This is a live Document that will be updated regularly
 1. Tools and Software 
    1. Text Editor
       1. Intergrated Developement Environment
-         1. Visual Studio Code (VSCode)
+         1. [Visual Studio Code (VSCode)](https://code.visualstudio.com/docs/introvideos/basics)
          1. Atom 
          1. Notepad++
    1. Terminal
@@ -28,6 +28,11 @@ This is a live Document that will be updated regularly
          
 1. Hyper Text Mark-Up Language (HTML)
    * HTML5
+      * Script 
+      * Table
+      * Links
+      * List
+      * Forms
 1. Cascading Style Sheets CSS
    * CSS Fundamental
       * Place Holder
@@ -38,19 +43,71 @@ This is a live Document that will be updated regularly
    * Viewport
    * Media Queries
    * Fluid Widths
+1. Front End Framework
+   * https://getbootstrap.com/
+   * https://material-ui.com/
+   * https://materializecss.com/getting-started.html
+
 1. JavaScript (First Coding Language)
-   *  
-1. Basic Deployment
-1. Frameworks 
+   *  Vanilla(Plain) Javascript 
+   * 	ECMAScript 2018
+   * 	ECMAScript 2017
+   * 	ECMAScript 2016
+   * 	ECMAScript 2015
+   * 	ECMAScript 2011
+
 1. Backend Languages
+   * [Nodejs] (Actually a Runtime)
+
+1. Frameworks
+   * [Express]
+   * [Flask](https://www.fullstackpython.com/flask.html)
+   * [Django](https://www.djangoproject.com/)
+   * [Ruby on Rails]()
+   * [Laravel Lumen]()
+   * [Microdot]()
+   * [Spring Boot]()
+
+1. Basic Deployment
+   * [Github Pages](https://pages.github.com/)
+   * [Netlify](https://www.netlify.com/)
+   * [Heroku](https://www.heroku.com/)
+   * [AWS](https://aws.amazon.com/)
+   * [Google](https://cloud.google.com/)
+   * [Azure](https://azure.microsoft.com/en-us/)
+
 1. Application Programming Interface (API)
+1. Databases
+   * SQL
+      * MySQL
+      * MS-SQL
+      
+   * NoSQL
+      * MongoDB
+      * PostgreSQL
+   * Cloud Database
+      * Apache CouchDB (CouchDB)
+      * AWS DynamoDB
+      * Azure Cosmos DB
+      
+1. Security Best Practices
+   * oWASP https://owasp.org/
+1. Authentication/Authorizations
+   * https://auth0.com/
+   * Link to https://auth0.com/docs/authorization/concepts/authz-and-authn
+1. DevOps
+   *  Where Did DevOps Come From?
+   *  What Are the Challenges DevOps Solves?
+   *  What Is the Goal of DevOps?
+   *  Where Are You on the DevOps Continuum?
+   *  What Are the Phases of DevOps Maturity?
+   *  What Are the Values of DevOps?
+   *  What Tools Are Used in DevOps?
+   *  What Is the History of DevOps?
+
+1. Containers
 1. Front-End Careers
 1. Back-End Careers
-1. Databases 
-1. Security Best Practices  
-1. Authentication/Authorizations
-1. Containers
-1. DevOps
 
 <details>
 <summary>1. Tools and Software </summary>
