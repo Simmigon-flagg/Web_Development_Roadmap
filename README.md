@@ -47,7 +47,6 @@ This is a live Document that will be updated regularly
    * https://getbootstrap.com/
    * https://material-ui.com/
    * https://materializecss.com/getting-started.html
-
 1. JavaScript (First Coding Language)
    *  Vanilla(Plain) Javascript 
    * 	ECMAScript 2018
@@ -115,6 +114,8 @@ This is a live Document that will be updated regularly
 <pre>
 
 # Tools and Software
+
+https://code.visualstudio.com/docs/introvideos/basics
 
 Here are the tools needed to get started with Front End or Back End 
 
@@ -224,9 +225,18 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 <pre>
 
 # HTML
-
-One Paragraph of project description goes here
-
+## Games
+   ### Games Video
+   ### Games Web Site
+## Videos: 
+   ### Short
+   ### Long
+## Online Learning Platform
+## Road Map
+## Project
+## Test Yourself websites
+## Job Requirment
+## LinkedIn Jobs
 ## Getting Started
 
 1. Text/Code Editor
@@ -330,8 +340,19 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 <pre>
 
 # CSS
-
 One Paragraph of project description goes here
+## Games
+   ### Games Video
+   ### Games Web Site
+## Videos: 
+   ### Short
+   ### Long
+## Online Learning Platform
+## Road Map
+## Project
+## Test Yourself websites
+## Job Requirment
+## LinkedIn Jobs
 
 ## Getting Started
 
@@ -446,8 +467,182 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 <pre>
 
 # JavaScript
+## Games
+   ### Games Video
+   ### Games Web Site
+## Videos: 
+   ### Short
+   ### Long
+## Online Learning Platform
+## Road Map
+## Project
+## Test Yourself websites
+## Job Requirment
+## LinkedIn Jobs
 
-One Paragraph of project description goes here
+## Getting Started
+
+1. Data Types
+1. Functions
+1. Conditionals
+1. Loops
+==
+1. Dom Manipulation and Events
+==
+1. Fetch Application Programming Interface (API) and JSON
+1. ES6+ Features
+   . Arrow Functions
+   . Promises
+   . Async/Await
+   . Destructuring 
+   . Template Strigns
+
+
+### Prerequisites
+
+What things you need to install the software and how to install them
+
+```
+Give examples
+```
+### Media
+[Eloquent Javascript](https://eloquentjavascript.net/) - Online Interactive Book!
+
+### Installing
+
+A step by step series of examples that tell you have to get a development env running
+
+Say what the step will be
+
+```
+Give the example
+```
+
+And repeat
+
+```
+until finished
+```
+
+End with an example of getting some data out of the system or using it for a little demo
+
+## Running the tests
+
+Explain how to run the automated tests for this system
+
+### Break down into end to end tests
+
+Explain what these tests test and why
+
+```
+Give an example
+```
+
+### And coding style tests
+
+Explain what these tests test and why
+
+```
+Give an example
+```
+
+## Deployment
+
+Add additional notes about how to deploy this on a live system
+
+## Built With
+
+* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
+* [Maven](https://maven.apache.org/) - Dependency Management
+* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+
+## Contributing
+
+Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+
+## Versioning
+
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags).
+
+## Authors
+
+* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+
+See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+## Acknowledgments
+
+* Hat tip to anyone who's code was used
+* Inspiration
+* etc
+
+
+</pre>
+</details>
+
+---
+
+
+
+
+
+<details>
+<summary>5. TypeScript</summary>
+<br>
+<pre>
+
+
+
+
+
+
+
+
+
+
+
+
+# TypeScript
+## Games
+   ### Games Video
+   ### Games Web Site
+## Videos: 
+   ### Short
+   ### Long
+## Online Learning Platform
+## Road Map
+## Project
+## Test Yourself websites
+## Job Requirment
+## LinkedIn Jobs
+
+TYPESCRIPT  
+
+React Material UI Tutorial - 1 - Introduction - YouTube 
+
+TypeScript: The starting point for learning TypeScript (typescriptlang.org) 
+
+https://www.typescriptlang.org/docs/
+
+ 
+
+
+
+
+
+
+
+
+
+REACT
+React Redux RTK Query CRUD Application | RTK Query CRUD | Redux Toolkit - YouTube 
+https://www.youtube.com/watch?v=XFA-XBQ_h2Y
+
+
 
 ## Getting Started
 
@@ -564,7 +759,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 <br>
 <pre>
 
-# Basic Deployment
+
 
 One Paragraph of project description goes here
 
@@ -1748,3 +1943,52 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 </details>
 
 ---
+
+
+# Games
+Games:  
+
+CSS Diner CSS 
+https://flukeout.github.io/
+
+CSS Diner (Full Walkthrough) 
+https://www.youtube.com/watch?v=SbYdwj5lito
+
+Codepip
+https://www.youtube.com/@Codepip
+
+Codepip
+https://codepip.com/games/
+
+How to google:
+
+Tranlate a webpage:
+https://www.youtube.com/watch?v=RTefAcZoSNM&t=34s
+
+
+List of games:
+https://nikitahl.com/learn-css-by-playing-games
+
+
+https://www.youtube.com/watch?v=uicLhaVO3UM&list=PLC3y8-rFHvwiNfZK3QmKLnrPcSAX32INO
+
+
+
+# This is One sections
+# Games
+   # Games Video
+   # Games Web Site
+# Videos: 
+   # Short
+   # Long
+# Online Learning Platform
+# Road Map
+# Project
+# Test Yourself websites
+# Job Requirment
+# LinkedIn Jobs
+
+
+
+<!--  -->
+https://www.buymeacoffee.com/igorantun
