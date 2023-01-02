@@ -1,3 +1,22 @@
+
+<details>
+  <summary>
+    <b> Template </b>
+  </summary>
+  # <h1> Games </h1>
+      # Games Video
+      # Games Web Site
+    # Videos: 
+      # Short
+      # Long
+    # Online Learning Platform
+    # Road Map
+    # Project
+    # Test Yourself websites
+    # Job Requirment
+    # LinkedIn Jobs
+</details>
+
 <details>
   <summary>
     <b>
@@ -13,9 +32,9 @@ https://code.visualstudio.com/docs/introvideos/basics
 
 Vscode Landing Page
 https://code.visualstudio.com/ 
-
 </details>
-Short Video
+
+# Short Video
 
 HTML Section
 Short Video:
