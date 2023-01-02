@@ -1,9 +1,21 @@
-Short Video
+<details>
+  <summary>
+    <b>
+      Visual Studio Code Or VScode
+    </b>
+  </summary>
+
 VScode: 
 https://www.youtube.com/watch?v=JPZsB_6yHVo
 
 VS Code
 https://code.visualstudio.com/docs/introvideos/basics
+
+Vscode Landing Page
+https://code.visualstudio.com/ 
+
+</details>
+Short Video
 
 HTML Section
 Short Video:
